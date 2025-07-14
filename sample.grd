@@ -1,0 +1,27 @@
+# タイトル
+
+# タイトルは```rs
+コードブロックもかける
+``` `rust` でかく
+
+## level2
+
+### level3
+
+デフォルトのheading levelは8までだが、設定で変えられる。
+
+```rs
+fn main() {
+    todo!()
+}
+```
+
+@
+- id: executable
+- entry: https://example.com/a.js
+- preload:
+  - https://cdn.example.com/react
+
+-- この上の改行までが設定
+a.jsにはrun(element: HTMLDivElement)の実装が必要。
+なかったらエラー。
